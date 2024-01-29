@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xmillena
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning web development, software engineering and data structures
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently studying machine learning with python
 - 💞️ I’m looking to collaborate on any project that will help me improve my coding skills
 - 📫 How to reach me mifernandessss@gmail.com
 

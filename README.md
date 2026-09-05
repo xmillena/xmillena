@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Stack & Ferramentas
+### Stack & Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -39,7 +39,7 @@
 
 ---
 
-### 📌 Projetos em destaque
+### Projetos em destaque
 
 #### 🔹 [Customer Churn Predict](https://github.com/xmillena/Customer-Churn-predict)
 Previsão de churn (cancelamento) de clientes utilizando o framework **SEMMA**, com foco em identificar padrões que antecedem o cancelamento e gerar insights acionáveis para retenção.

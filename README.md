@@ -48,7 +48,6 @@ Previsão de churn (cancelamento) de clientes utilizando o framework **SEMMA**, 
 Previsão de situação de inadimplência por atraso no pagamento, com base no histórico de comportamento e nas características dos clientes.
 
 ---
-### 📫 Vamos conectar?
 
 <p align="left">
   <a href="mailto:pfernandesmillena@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>

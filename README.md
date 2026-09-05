@@ -44,8 +44,8 @@
 #### 🔹 [Customer Churn Predict](https://github.com/xmillena/Customer-Churn-predict)
 Previsão de churn (cancelamento) de clientes utilizando o framework **SEMMA**, com foco em identificar padrões que antecedem o cancelamento e gerar insights acionáveis para retenção.
 
-#### 🔹 [Loyalty Predict](https://github.com/xmillena/loyalty-predict-main)
-Análise de engajamento e ciclo de vida de usuários, explorando comportamento e fatores associados à fidelização.
+#### 🔹 [Credit Risk Prediction](https://github.com/xmillena/defaulter_risk_project.git)
+Previsão de situação de inadimplência por atraso no pagamento, com base no histórico de comportamento e nas características dos clientes.
 
 ---
 ### 📫 Vamos conectar?

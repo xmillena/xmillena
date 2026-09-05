@@ -10,12 +10,12 @@
 
 ###  Sobre mim
 
-- 🎓 Bacharel em **Ciência da Computação** pela **UFMA** (Universidade Federal do Maranhão)
-- 📊 Curso extracurricular de **Estatística e Pesquisa Operacional para Ciência de Dados** — USP
-- 💼 Experiência com **pipelines de dados automatizados**, qualidade e padronização de dados, e soluções analíticas
-- 🐍 Trabalho no dia a dia com **Python, SQL, Pandas e Machine Learning**
-- 🌎 Inglês avançado
-- 🔭 Atualmente aprofundando conhecimentos em Machine Learning e Estatística aplicada a dados de marketing e finanças
+- Bacharel em **Ciência da Computação** pela **UFMA** (Universidade Federal do Maranhão)
+- Curso extracurricular de **Estatística e Pesquisa Operacional para Ciência de Dados** — USP
+- Experiência com **pipelines de dados automatizados**, qualidade e padronização de dados, e soluções analíticas
+- Trabalho no dia a dia com **Python, SQL, Pandas e Machine Learning**
+- Inglês avançado
+- Atualmente aprofundando conhecimentos em Machine Learning e Estatística aplicada a dados de marketing e finanças
 
 ---
 
